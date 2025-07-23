@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamanth Kumar K</h1>
 <h3 align="center">Aspiring Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **Python, Web Development, and GitHub**
+- 🌱 I’m currently learning **Python, Web Development, and Javascript**
 - 🤝 I’m looking to collaborate on **open source and beginner-friendly projects**
 - 💬 Ask me about **HTML, CSS, Python, or C**
 - 📫 Reach me at: kshamanthkumar5@gmail.com
