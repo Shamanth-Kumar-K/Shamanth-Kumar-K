@@ -1,46 +1,54 @@
-# 👋 Hi, I'm Shamanth Kumar K  
-
-💻 Aspiring Web Developer | 🐍 Intermediate Pythonista | 🌐 Frontend Enthusiast | 🚀 Lifelong Learner  
-
----
-
-## 🔥 About Me  
-- 🌱 Currently learning **Web Development (HTML, CSS, JavaScript)**  
-- 🐍 Intermediate knowledge of **Python**  
-- ☕ Basic understanding of **C and Java**  
-- 💡 Interested in problem solving & open-source contributions  
-- 📫 Reach me at: **your.email@example.com**  
-- ⚡ Fun fact: I love turning ideas into working projects!  
+<h1 align="center">Hi 👋, I'm Shamanth Kumar K</h1>
+<h3 align="center">A passionate Web Developer & Learner 🚀</h3>
 
 ---
 
-## 🛠️ Tech Stack  
-
-**🌐 Frontend:**  
-- HTML, CSS, JavaScript  
-
-**💻 Programming Languages:**  
-- Python (Intermediate)  
-- C (Basic)  
-- Java (Basic)  
-
-**⚙️ Tools & Platforms:**  
-- Git, GitHub, VS Code  
+![Profile views](https://komarev.com/ghpvc/?username=Shamanth-Kumar-K&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 📌 Featured Projects  
-🔹 [My First Webpage](https://github.com/Shamanth-Kumar-K/my-first-webpage)  
-🔹 [Another Cool Project](https://github.com/Shamanth-Kumar-K/Fake-News-Detector-NLP)  
+## 🌟 About Me
+- 🔭 I’m currently working on **Frontend Projects**
+- 🌱 I’m learning **JavaScript, CSS, and HTML deeply**
+- 💻 I know **Intermediate Python, Basic C, and Basic Java**
+- ⚡ Fun fact: I love building projects that solve real-life problems 😎
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=tokyonight)  
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Shamanth-Kumar-K&layout=compact&theme=tokyonight)  
+## 🚀 Languages & Tools
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shamanth-kumar-k-8a2549285/)   
+<div align="center">
+
+## 📚 My Mantras
+
+> "Experience is the name everyone gives to their mistakes." – Oscar Wilde  
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+
+> "Simplicity is the soul of efficiency." – Austin Freeman  
+
+
+## 📊 GitHub Stats
+
+![Shamanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-Kumar-K&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shamanth-Kumar-K&theme=tokyonight)  
+
+</div>
+
+---
+
+<div align="center">
