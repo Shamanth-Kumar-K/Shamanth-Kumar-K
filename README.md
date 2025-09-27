@@ -3,17 +3,19 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Shamanth-Kumar-K&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ## 🌟 About Me
 - 🔭 I’m currently working on **Frontend Projects**
 - 🌱 I’m learning **JavaScript, CSS, and HTML deeply**
 - 💻 I know **Intermediate Python, Basic C, and Basic Java**
 - 🔧 Diving into Embedded Systems & IoT to turn ideas into reality
-- ⚡ Fun fact: I love building projects that solve real-life problems 😎
+- 💡 Interested in problem solving & open-source contributions
+- 📫  Reach me at: **kshamanthkumar5@gmail.com**
+- ⚡ Fun fact: I love turning ideas into working projects!
 
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Shamanth-Kumar-K&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
