@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamanth Kumar K</h1>
-<h3 align="center">A passionate Web Developer & Learner 🚀</h3>
+<h3 align="center">A passionate Developer & Learner 🚀</h3>
 
 ---
 
@@ -11,7 +11,9 @@
 - 🔭 I’m currently working on **Frontend Projects**
 - 🌱 I’m learning **JavaScript, CSS, and HTML deeply**
 - 💻 I know **Intermediate Python, Basic C, and Basic Java**
+- 🔧 Diving into Embedded Systems & IoT to turn ideas into reality
 - ⚡ Fun fact: I love building projects that solve real-life problems 😎
+
 
 ---
 
@@ -28,6 +30,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
 
 ---
