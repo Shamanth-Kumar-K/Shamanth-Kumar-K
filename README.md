@@ -1,47 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shamanth Kumar K</h1>
-<h3 align="center">Aspiring Developer | Tech Enthusiast | Lifelong Learner</h3>
+# 👋 Hi, I'm Shamanth Kumar K  
 
-- 🌱 I’m currently learning **Python, Web Development, and Javascript**
-- 🤝 I’m looking to collaborate on **open source and beginner-friendly projects**
-- 💬 Ask me about **HTML, CSS, Python, or C**
-- 📫 Reach me at: kshamanthkumar5@gmail.com
-- ⚡ Fun fact: I enjoy debugging tricky bugs and building small projects!
+💻 Aspiring Web Developer | 🐍 Intermediate Pythonista | 🌐 Frontend Enthusiast | 🚀 Lifelong Learner  
 
 ---
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+## 🔥 About Me  
+- 🌱 Currently learning **Web Development (HTML, CSS, JavaScript)**  
+- 🐍 Intermediate knowledge of **Python**  
+- ☕ Basic understanding of **C and Java**  
+- 💡 Interested in problem solving & open-source contributions  
+- 📫 Reach me at: **your.email@example.com**  
+- ⚡ Fun fact: I love turning ideas into working projects!  
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamanth-Kumar-K&theme=radical" />
-</p>
+## 🛠️ Tech Stack  
+
+**🌐 Frontend:**  
+- HTML, CSS, JavaScript  
+
+**💻 Programming Languages:**  
+- Python (Intermediate)  
+- C (Basic)  
+- Java (Basic)  
+
+**⚙️ Tools & Platforms:**  
+- Git, GitHub, VS Code  
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shamanth-Kumar-K&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 📌 Featured Projects  
+🔹 [My First Webpage](https://github.com/Shamanth-Kumar-K/my-first-webpage)  
+🔹 [Another Cool Project](https://github.com/Shamanth-Kumar-K/Fake-News-Detector-NLP)  
 
 ---
 
-### 🔝 Top Contributed Repos:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shamanth-Kumar-K&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Shamanth-Kumar-K&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shamanth-kumar-k-8a2549285/)   
