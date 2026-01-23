@@ -4,10 +4,10 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Frontend Projects**
-- 🌱 I’m learning **JavaScript, CSS, and HTML deeply**
+- 🔭 I’m currently working on **Data Engineering Projects**
+- 🌱 I’m learning **Python, JavaScript, CSS, and HTML deeply**
 - 💻 I know **Intermediate Python, Basic C, and Basic Java**
-- 🔧 Diving into Embedded Systems & IoT to turn ideas into reality
+- 🔧 Diving into **Embedded Systems** & **IoT** to turn ideas into reality
 - 💡 Interested in problem solving & open-source contributions
 - ⚡ Fun fact: I love turning ideas into working projects!
 
