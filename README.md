@@ -25,9 +25,9 @@
 
 ---
 # 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=radical&rank_icon=github&border_radius=10)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-Kumar-K&layout=compact&theme=radical&border_radius=10)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamanth-Kumar-K&theme=radical&border_radius=10)
+![My GitHub Stats](https://github-readme-stats.shion.dev/api?username=Shamanth-Kumar-K&show_icons=true&theme=radical&border_radius=10)<br/>
+![My Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Shamanth-Kumar-K&layout=compact&theme=radical&border_radius=10)<br/>
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamanth-Kumar-K&theme=radical&border_radius=10)
 
 <div align="center">
 
