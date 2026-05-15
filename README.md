@@ -25,9 +25,9 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shamanth-Kumar-K&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-Kumar-K&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=radical&rank_icon=github&border_radius=10)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-Kumar-K&layout=compact&theme=radical&border_radius=10)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamanth-Kumar-K&theme=radical&border_radius=10)
 
 <div align="center">
 
