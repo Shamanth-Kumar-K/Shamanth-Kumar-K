@@ -21,7 +21,7 @@
 <div align="center">
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,kotlin,eclipse,docker,firebase,java,gcp,git,github,grafana,mysql,py,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,androidstudio,kotlin,eclipse,docker,firebase,java,gcp,git,github,grafana,mysql,py,pycharm)](https://skillicons.dev)
 
 ---
 # 📊 GitHub Stats:
