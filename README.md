@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Shamanth+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+IoT+Developer;Building+Smart+Systems+with+Python+%26+Arduino;Final+Year+ECE+%40+MIT+Thandavapura" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Shamanth+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+IoT+Developer;Building+Smart+Systems+with+Python+%26+Arduino;ECE+Graduate+%7C+Mysore%2C+India" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,8 +10,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shamanth-Kumar-K&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  &nbsp;
   <a href="mailto:kshamanthkumar5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shamanth-kumar-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <a href="https://github.com/Shamanth-Kumar-K"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
@@ -19,15 +22,16 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table width="100%">
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class ShamanthKumarK:
     def __init__(self):
-        self.name        = "Shamanth Kumar K"
-        self.location    = "Mysore, Karnataka, India"
-        self.degree      = "B.E. Electronics & Communication (2026)"
-        self.email       = "kshamanthkumar5@gmail.com"
+        self.name     = "Shamanth Kumar K"
+        self.location = "Mysore, Karnataka, India"
+        self.email    = "kshamanthkumar5@gmail.com"
 
         self.stack = [
             "Python", "Machine Learning",
@@ -39,7 +43,7 @@ class ShamanthKumarK:
         self.currently_learning = [
             "Deep Learning & Neural Networks",
             "Edge AI / TinyML optimisation",
-            "MLOps & model deployment pipelines",
+            "MLOps & deployment pipelines",
         ]
 
         self.fun_fact = (
@@ -55,7 +59,12 @@ me = ShamanthKumarK()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px;"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,7 +139,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shamanth-Kumar-K&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shamanth-Kumar-K&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -163,49 +172,6 @@ print(me.motto())
 - Built and deployed an interactive Streamlit web application on Google Colab for real-time calorie predictions with a clean user interface.
 
 </details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [**🤖 Automated Debris Interceptor**](https://github.com/Shamanth-Kumar-K) | `Arduino Mega` `ESP32-CAM` `TinyML` `Edge Impulse` `IoT` | ✅ **89% waste sorting accuracy** • Trained on **4,000+ images** • 5-DOF robotic arm • Ultrasonic obstacle avoidance • Fully autonomous roadside operation |
-| [**🏋️ Personal Fitness Tracker**](https://github.com/Shamanth-Kumar-K) | `Python` `Scikit-learn` `Random Forest` `Streamlit` `Joblib` | ✅ Calorie prediction engine • Feature scaling + label encoding • Modular preprocessing pipeline • Deployed on **Streamlit Cloud** for zero-installation access |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|:---:|:------------|:--------|
-| 🤖 | **TinyML / Edge AI Project** | Deployed ML model on microcontroller with **89% classification accuracy** on **4,000+ image** dataset |
-| 📊 | **ETL Pipeline Optimization** | Reduced failure detection time by **30%**; maintained **99.9% data quality** at Infosys Springboard |
-| 🌿 | **AI-Powered Fitness App** | End-to-end ML product — from raw data to **live Streamlit Cloud deployment** |
-| 📜 | **Google Certified** | Crash Course on Python — Google |
-| 📜 | **Infosys Certified** | Introduction to Python Programming — Infosys Springboard |
-| 🌐 | **NVIDIA Certified** | Introduction to Networking — NVIDIA |
-| ✨ | **Google Prompting Essentials** | Certified in effective AI prompting — Google |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E. Electronics & Communication | Maharaja Institute of Technology Thandavapura, Mysore | Dec 2022 – Jul 2026 | **CGPA: 8.4** |
-
-</div>
 
 ---
 
