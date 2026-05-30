@@ -36,21 +36,19 @@ class ShamanthKumarK:
 
         self.stack = [
             "Python", "Machine Learning",
-            "TinyML", "IoT / Embedded",
-            "Scikit-learn", "Streamlit",
+            "Java, Javascript",
+            "HTML","CSS", "Streamlit",
             "Arduino", "SQL"
         ]
 
         self.currently_learning = [
-            "Deep Learning & Neural Networks",
-            "Edge AI / TinyML optimisation",
-            "MLOps & deployment pipelines",
+            "Data Structure and Algorithms",
+            "Full stack web development",
+            "Artificial Intelligence",
         ]
 
         self.fun_fact = (
-            "I trained a waste-sorting robot "
-            "on 4,000+ images — it's cleaner "
-            "than most humans I know 🤖"
+            " I love turning ideas into working projects!"
         )
 
     def motto(self):
