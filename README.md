@@ -62,7 +62,7 @@ print(me.motto())
 <td valign="top" width="45%">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px;"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="100%" style="border-radius:8px; margin-top:8px;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dvYmN1M2l6YmMyeXZndDc0c2c4ZHEweHgzbmh1ZzJvOTlqMGI4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xRICW5msyoRUv6/giphy.gif" width="100%" style="border-radius:8px; margin-top:8px;"/>
 </td>
 </tr>
 </table>
