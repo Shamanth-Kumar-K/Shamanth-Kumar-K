@@ -1,22 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shamanth%20Kumar%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Embedded%20Systems%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shamanth%20Kumar%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%7C%20Java%20%7C%20Aspiring%20Software%20Dev%20%7C%20Full%20Stack%20Web%20Dev&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Shamanth+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+IoT+Developer;Building+Smart+Systems+with+Python+%26+Arduino;ECE+Graduate+%7C+Mysore%2C+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Shamanth+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+Problem+Solver;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;Engineering+Graduate+%7C+Mysore%2C+India" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shamanth-Kumar-K&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <a href="mailto:kshamanthkumar5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   &nbsp;
-  <a href="mailto:kshamanthkumar5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shamanth-kumar-k"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/shamanth-kumar-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Shamanth-Kumar-K"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Shamanth-Kumar-K"><img src="https://skillicons.dev/icons?i=github"/></a>
+  
 </div>
+<img src="https://komarev.com/ghpvc/?username=Shamanth-Kumar-K&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  &nbsp;
 
 ---
 
@@ -62,6 +63,8 @@ print(me.motto())
 </td>
 <td valign="top" width="45%">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px;"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="100%" style="border-radius:8px; margin-top:8px;"/>
 </td>
 </tr>
 </table>
@@ -72,38 +75,35 @@ print(me.motto())
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://skillicons.dev/icons?i=py)
+![Java](https://skillicons.dev/icons?i=java)
+![Javascript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
 
 **Frameworks & Libraries**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
+![grade](https://skillicons.dev/icons?i=gradle)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![CSS](https://skillicons.dev/icons?i=css)
 
-**Embedded & IoT**
+**Cloud & Tools**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-4042B4?style=flat-square&logo=edgeimpulse&logoColor=white)
-![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**Cloud & Data Tools**
-
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google cloud](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![android studio](https://skillicons.dev/icons?i=androidstudio)
+![postgres SQL](https://skillicons.dev/icons?i=postgres)
+![Grafana](https://skillicons.dev/icons?i=grafana)
 
 **Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+
 
 ---
 
@@ -111,10 +111,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Shamanth-Kumar-K">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://gh-readme-stats.vercel.app/api?username=Shamanth-Kumar-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/Shamanth-Kumar-K">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-Kumar-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Shamanth-Kumar-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -139,7 +139,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shamanth-Kumar-K&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
+  <img src="https://github-trophies.vercel.app/?username=Shamanth-Kumar-K&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -178,11 +178,11 @@ print(me.motto())
 ## 🌱 Currently Learning
 
 ```
-🧠 Deep Learning          →  Neural Networks, CNNs, RNNs, Transformers
-⚡ Edge AI / TinyML       →  Model Quantisation, Pruning, Edge Impulse Advanced
-🔁 MLOps                  →  Model versioning, CI/CD for ML, deployment pipelines
-☁️  Cloud ML              →  GCP Vertex AI, model serving, scalable inference
-📡 Embedded Systems       →  RTOS, communication protocols (I2C, SPI, UART)
+🐍 Python                 →  Advanced OOP, Decorators, Async, Design Patterns
+☕ Java                   →  Core Java, Collections, Multithreading, Spring Boot
+📐 DSA                    →  Arrays, Trees, Graphs, Dynamic Programming, LeetCode
+🌐 Full Stack Web Dev     →  HTML, CSS, JavaScript, React, Node.js, REST APIs
+🤖 AI & ML                →  Supervised Learning, Neural Networks, Model Deployment
 ```
 
 ---
